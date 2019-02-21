@@ -1,38 +1,26 @@
 ---
-title: Hello World
+title: 内心活动以及Hello world
+categories: 
+    - 生活
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start
+> 关于网站搭建
 
-### Create a new post
+一直有想要搭建一个属于自己网站的想法，但一直都没有付诸行动。直到一个同事分享了记录他好几年生活学习的博客（昨天这名同事已离职），终于抑制不住内心的冲动。耗时3天，踩了各种坑，甚至还白买了腾讯云3个多月的服务器...内心十分难受。
 
-``` bash
-$ hexo new "My New Post"
-```
+不过！！网站搭建成功的时候还是十分开心的，选了一个有特殊意义的域名，成功通过域名访问的那一刻感觉到了成就感。
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+![](../static/imgs/20171202110518_WGjxk.jpeg)
 
-### Run server
 
-``` bash
-$ hexo server
-```
+> 关于工作
 
-More info: [Server](https://hexo.io/docs/server.html)
+刚刚开年，工作上的事情没有很忙（hhhhh所以才有时间来搞一个网站啊），leader让自己找技术学习。不过今天已经有需求评审过了，看来又要开始进入节奏。
 
-### Generate static files
+同事什么都很棒，工作上的帮助，技术上的互相分享。跟一年前的自己相比又成长了不少
 
-``` bash
-$ hexo generate
-```
+> 关于生活
 
-More info: [Generating](https://hexo.io/docs/generating.html)
+生活上还是比较单调的三点一线，有考虑过要发展一些其它的兴趣方向，不过目前也仅仅是在考虑而已。情感上稍微遇到了一些麻烦，个人对朋友间人际关系的处理啊，对喜欢的女生的心态啊，都做得不是很棒。各方面的原因，性格应该占了很大的主导吧。真让人头大。
 
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/deployment.html)
+慢慢来！    只是希望一切都能好起来
