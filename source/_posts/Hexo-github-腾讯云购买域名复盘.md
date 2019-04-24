@@ -58,7 +58,7 @@ categories:
   确认无误之后就到了部署到服务器这一环节。做为一个不太懂服务器啊部署啊这一方面的前端菜鸟来说是很痛苦的，在网上找了很久，如果服务器不做其它用途的话买服务器也太不划算了...找到一个折中并且简单的方法：hexo + github搭建自己的博客。
 
   ## 二、将博客部署到自己的域名
-  贴上自己的域名：[送你汪洋中的一条小船](www.zhousong-ld.com)
+  贴上自己的域名：[www.zhousong-ld.com](www.zhousong-ld.com)
 
 
   <p style='color: #253A4E;'>1.在自己的github仓库中新建一个名为`username.github.io`的仓库，username即为个人的github名</p><p style='color: #253A4E;'>2.修改前面提到过的`_config.yml`文件，将`deploy`字段下`repo`对应的值修改为刚才新建的github仓库地址，然后命令行执行`hexo deploy`</p><p style='color: #253A4E;'>3.在腾讯云购买一个域名、完成网站备案，cname到自己购买的域名</p>
