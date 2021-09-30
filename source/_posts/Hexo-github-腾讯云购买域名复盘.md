@@ -73,4 +73,4 @@ categories:
 
     在`source`文件夹下新增`cname`文件
 
-<b>`hexo g`然后`hexo d`，大功告成！</b>
+<b>`hexo g` 然后 `hexo d`，大功告成！</b>

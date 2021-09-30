@@ -79,5 +79,5 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://oauth2: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@github.com/liangxiao-zs/liangxiao-zs.github.io.git
+  repo: https://oauth2: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@github.com/liangxiao-zs/liangxiao-zs.github.io.git
   branch: master
